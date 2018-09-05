@@ -24,7 +24,7 @@ public class MyController {
 		request.setAttribute("list", list);
 		System.out.println("--------------------sdfafsadfasdf================");
 		System.out.println("23423423423");
-		System.out.println("////////////////////////////////////");
+		System.out.println("dfgsdfgsdf");
 		return "list";
 	}
 	
