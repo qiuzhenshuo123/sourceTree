@@ -22,7 +22,7 @@ public class MyController {
 		List<User> list = myService.select();
 		
 		request.setAttribute("list", list);
-		
+		System.out.println("--------------------sdfafsadfasdf================");
 		return "list";
 	}
 	
