@@ -23,6 +23,7 @@ public class MyController {
 		
 		request.setAttribute("list", list);
 		System.out.println("--------------------sdfafsadfasdf================");
+		System.out.println("23423423423");
 		return "list";
 	}
 	
